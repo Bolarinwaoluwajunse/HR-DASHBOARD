@@ -35,5 +35,3 @@ This repository contains the code and documentation for an HR Dashboard Analysis
 
 10. **Employees by Position:**
     - Classification of employees by job positions, providing a hierarchical view of the organizational structure.
-
-## Usage
